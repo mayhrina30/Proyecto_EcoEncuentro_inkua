@@ -39,3 +39,4 @@ nuestro planeta y todas sus criaturas.<br/><br/>
   </a>
 </p>
 
+![Logo de mi proyecto 2](https://github.com/mayhrina30/Proyecto_EcoEncuentro_inkua/raw/master/eventoinkua.png)
